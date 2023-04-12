@@ -1,0 +1,1587 @@
+{
+	"encoded_imei": "000f383633393430303532323539343332",
+	"imei": "863940052259432",
+	"zero_bytes": "00000000",
+	"data_field_length": "000004d6",
+	"codec_id": "08",
+	"n_of_data1": "13",
+	"data_packet1": {
+		"timestamp": "0000018382ff8398",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "007b",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11942
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet2": {
+		"timestamp": "0000018382ff50d0",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "007b",
+		"angle": "0000",
+		"satellites": "09",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11942
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet3": {
+		"timestamp": "0000018382ff29c0",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "007a",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11942
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet4": {
+		"timestamp": "0000018382ff02b0",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "007a",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11941
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet5": {
+		"timestamp": "0000018382fed7b8",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0079",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11935
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet6": {
+		"timestamp": "0000018382feb0a8",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0078",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11935
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet7": {
+		"timestamp": "0000018382fe8998",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0077",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11932
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet8": {
+		"timestamp": "0000018382fe5ea0",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0076",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 10
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11941
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet9": {
+		"timestamp": "0000018382fe3790",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0075",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 10
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11941
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet10": {
+		"timestamp": "0000018382fe1080",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0077",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 10
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11941
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet11": {
+		"timestamp": "0000018382fde970",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0076",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11900
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet12": {
+		"timestamp": "0000018382fdc260",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0075",
+		"angle": "0000",
+		"satellites": "0a",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 11
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 8
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11942
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet13": {
+		"timestamp": "0000018382fd9b50",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "006e",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 11
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 8
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11942
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet14": {
+		"timestamp": "0000018382fd7440",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "006e",
+		"angle": "0000",
+		"satellites": "0d",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 11
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 8
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11941
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet15": {
+		"timestamp": "0000018382fd4d30",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0071",
+		"angle": "0000",
+		"satellites": "0c",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11936
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet16": {
+		"timestamp": "0000018382fd2238",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0071",
+		"angle": "0000",
+		"satellites": "09",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11935
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet17": {
+		"timestamp": "0000018382fcfb28",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0071",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11935
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet18": {
+		"timestamp": "0000018382fcd418",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "0076",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 13
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 10
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11933
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"data_packet19": {
+		"timestamp": "0000018382fcad08",
+		"priority": "00",
+		"longitude": "11566ede",
+		"latitude": "187e6046",
+		"altitude": "007a",
+		"angle": "0000",
+		"satellites": "0b",
+		"speed": "0000",
+		"event_io_id": "00",
+		"n_of_total_id": "0c",
+		"n1_of_one_byte_io": "05",
+		"one_byte_io_list": {
+			"239": {
+				"property_name": "Ignition",
+				"description": "0 - Ignition Off, 1 - Ignition On",
+				"value": 0
+			},
+			"240": {
+				"property_name": "Movement",
+				"description": "0 - Movement Off, 1 - Movement On",
+				"value": 0
+			},
+			"21": {
+				"property_name": "GSM Signal",
+				"description": "Value in scale 1-5",
+				"value": 5
+			},
+			"200": {
+				"property_name": "Sleep Mode",
+				"description": "0 - Sleep modes disabled, 1 - GNSS sleep, 2 - Deep sleep, 3 - Online deep sleep, 4 - Ultra deep sleep",
+				"value": 0
+			},
+			"69": {
+				"property_name": "GNSS Status",
+				"description": "0 - GNSS OFF, 1 - GNSS ON with fix, 2 - GNSS ON without fix, 3 - GNSS sleep",
+				"value": 1
+			}
+		},
+		"n2_of_two_bytes_io": "05",
+		"two_byte_io_list": {
+			"181": {
+				"property_name": "GNSS PDOP",
+				"description": "Probability",
+				"value": 12
+			},
+			"182": {
+				"property_name": "GNSS HDOP",
+				"description": "Probability",
+				"value": 9
+			},
+			"66": {
+				"property_name": "External Voltage",
+				"description": "IO element is used to measure External Voltage, when External Voltage is < 65V.",
+				"value": 11943
+			},
+			"67": {
+				"property_name": "Battery Voltage",
+				"description": "Voltage",
+				"value": 4165
+			},
+			"68": {
+				"property_name": "Battery Current",
+				"description": "Current",
+				"value": 0
+			}
+		},
+		"n4_of_four_bytes_io": "02",
+		"four_byte_io_list": {
+			"241": {
+				"property_name": "Active GSM Operator",
+				"description": "Currently used GSM Operator code",
+				"value": 28601
+			},
+			"16": {
+				"property_name": "Total Odometer",
+				"description": "Total Odometer value",
+				"value": 14634
+			}
+		},
+		"n8_of_eight_bytes_io": "00",
+		"eight_byte_io_list": {}
+	},
+	"n_of_data2": "13",
+	"crc_16": "00005d94"
+}
